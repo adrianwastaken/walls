@@ -13,14 +13,15 @@
       "url":"https://i.imgur.com/aMzFCq2.jpg",
       "dimensions":"2255x4800",
       "collections":"Europe",
-      "copyright":"test"
+      "copyright":"Map data: Google, Maxar Technologies"
    },
    {
       "name":"Iceland",
       "author":"Mohit",
       "url":"https://i.imgur.com/wJwuz4X.jpg",
       "dimensions":"2255x4800",
-      "collections":"Europe"
+      "collections":"Europe",
+      "copyright":"Map data: Google, CNES/Airbus"
    },
    {
       "name":"Namibia",
@@ -41,7 +42,8 @@
       "author":"Mohit",
       "url":"https://i.imgur.com/EtjmvT1.jpg",
       "dimensions":"2255x4800",
-      "collections":"North America"
+      "collections":"North America",
+      "copyright":"Map data: Google, Maxar Technologies"
    },
    {
       "name":"USA",
@@ -62,14 +64,16 @@
       "author":"Mohit",
       "url":"https://i.imgur.com/p6HDVl5.jpg",
       "dimensions":"2255x4800",
-      "collections":"Africa"
+      "collections":"Africa",
+      "copyright":"Map data: Google, CNES/Airbus, Maxar Technologies"
    },
    {
       "name":"Peru",
       "author":"Mohit",
       "url":"https://i.imgur.com/owctCsT.jpg",
       "dimensions":"2032x4325",
-      "collections":"South America"
+      "collections":"South America",
+      "copyright":"Map data: Google, Maxar Technologies"
    },
     {
       "name":"Namibia",
@@ -97,7 +101,8 @@
       "author":"Mohit",
       "url":"https://i.imgur.com/33UBYEK.jpg",
       "dimensions":"2255x4800",
-      "collections":"Africa"
+      "collections":"Africa",
+      "copyright":"Map data: Google, Landsat Copernicus, Maxar Technologies"
    },
    {
       "name":"Bahamas",
