@@ -4,14 +4,16 @@
       "author":"Mohit",
       "url":"https://i.imgur.com/fpJjt0Q.jpg",
       "dimensions":"2255x4800",
-      "collections":"North America"
+      "collections":"North America",
+      "copyright":"Map data: Google, Maxar Technologies"
    },
    {
       "name":"Iceland",
       "author":"Mohit",
       "url":"https://i.imgur.com/aMzFCq2.jpg",
       "dimensions":"2255x4800",
-      "collections":"Europe"
+      "collections":"Europe",
+      "copyright":"test"
    },
    {
       "name":"Iceland",
