@@ -1,7 +1,7 @@
 [
    {
       "name":"USA",
-      "author":"Mohit",
+      "author":"Copernicus",
       "url":"https://i.imgur.com/fpJjt0Q.jpg",
       "dimensions":"2255x4800",
       "collections":"North America",
@@ -9,7 +9,7 @@
    },
    {
       "name":"Iceland",
-      "author":"Mohit",
+      "author":"CNES/Airbus",
       "url":"https://i.imgur.com/aMzFCq2.jpg",
       "dimensions":"2255x4800",
       "collections":"Europe",
@@ -17,7 +17,7 @@
    },
    {
       "name":"Iceland",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/wJwuz4X.jpg",
       "dimensions":"2255x4800",
       "collections":"Europe",
@@ -25,7 +25,7 @@
    },
    {
       "name":"Namibia",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/R26UyUt.jpg",
       "dimensions":"2255x4800",
       "collections":"Africa",
@@ -33,7 +33,7 @@
    },
    {
       "name":"China",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/NfSqngo.jpg",
       "dimensions":"2255x4800",
       "collections":"Asia",
@@ -41,7 +41,7 @@
    },
    {
       "name":"Mexico",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/EtjmvT1.jpg",
       "dimensions":"2255x4800",
       "collections":"North America",
@@ -49,7 +49,7 @@
    },
    {
       "name":"USA",
-      "author":"Mohit",
+      "author":"Google",
       "url":"https://i.imgur.com/bkTMfiw.jpg",
       "dimensions":"2255x4800",
       "collections":"North America",
@@ -57,7 +57,7 @@
    },
    {
       "name":"Saudi Arabia",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/YdgNMgI.jpg",
       "dimensions":"2255x4800",
       "collections":"Asia",
@@ -65,7 +65,7 @@
    },
    {
       "name":"Mozambique",
-      "author":"Mohit",
+      "author":"CNES/Airbus",
       "url":"https://i.imgur.com/p6HDVl5.jpg",
       "dimensions":"2255x4800",
       "collections":"Africa",
@@ -73,7 +73,7 @@
    },
    {
       "name":"Peru",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/owctCsT.jpg",
       "dimensions":"2032x4325",
       "collections":"South America",
@@ -81,7 +81,7 @@
    },
     {
       "name":"Namibia",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/YYZeMlv.jpg",
       "dimensions":"2091x4457",
       "collections":"Africa",
@@ -89,7 +89,7 @@
    },
    {
       "name":"Algeria",
-      "author":"Mohit",
+      "author":"CNES/Airbus",
       "url":"https://i.imgur.com/QOLlyi1.jpg",
       "dimensions":"2255x4800",
       "collections":"Africa",
@@ -97,7 +97,7 @@
    },
    {
       "name":"Bahamas",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/DhbYrhZ.jpg",
       "dimensions":"2255x4800",
       "collections":"North America",
@@ -105,7 +105,7 @@
    },
    {
       "name":"Mozambique",
-      "author":"Mohit",
+      "author":"Copernicus",
       "url":"https://i.imgur.com/33UBYEK.jpg",
       "dimensions":"2255x4800",
       "collections":"Africa",
@@ -113,7 +113,7 @@
    },
    {
       "name":"Bahamas",
-      "author":"Mohit",
+      "author":"Copernicus",
       "url":"https://i.imgur.com/xCYgU06.jpg",
       "dimensions":"2255x4800",
       "collections":"North America",
@@ -121,7 +121,7 @@
    },
    {
       "name":"USA",
-      "author":"Mohit",
+      "author":"Copernicus",
       "url":"https://i.imgur.com/Ii0mpoX.jpg",
       "dimensions":"2255x4800",
       "collections":"North America",
@@ -129,7 +129,7 @@
    },
    {
       "name":"USA",
-      "author":"Mohit",
+      "author":"Copernicus",
       "url":"https://i.imgur.com/WOjtI1D.jpg",
       "dimensions":"2255x4800",
       "collections":"North America",
@@ -137,7 +137,7 @@
    },
    {
       "name":"Namibia",
-      "author":"Mohit",
+      "author":"CNES/Airbus",
       "url":"https://i.imgur.com/wYJkBi4.jpg",
       "dimensions":"2255x4800",
       "collections":"Africa",
@@ -145,7 +145,7 @@
    },
    {
       "name":"Brazil",
-      "author":"Mohit",
+      "author":"Copernicus",
       "url":"https://i.imgur.com/A5B3Rt8.jpg",
       "dimensions":"2255x4800",
       "collections":"South America",
@@ -153,7 +153,7 @@
    },
    {
       "name":"Australia",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/fDjCkCz.jpg",
       "dimensions":"2085x4439",
       "collections":"Australia",
@@ -161,7 +161,7 @@
    },
    {
       "name":"Cooler Algeria",
-      "author":"Mohit",
+      "author":"Maxar",
       "url":"https://i.imgur.com/Y0rGrn3.jpg",
       "dimensions":"2255x4800",
       "collections":"Africa",
@@ -169,7 +169,7 @@
    },
    {
       "name":"Sudan",
-      "author":"Mohit",
+      "author":"DigitalGlobe",
       "url":"https://i.imgur.com/qYOq2t7.jpg",
       "dimensions":"1113x2352",
       "collections":"Africa",
@@ -177,7 +177,7 @@
    },
    {
       "name":"Iran",
-      "author":"Mohit",
+      "author":"CNES/Airbus",
       "url":"https://i.imgur.com/qfsqVWi.jpg",
       "dimensions":"2255x4800",
       "collections":"Asia",
@@ -185,7 +185,7 @@
    },
    {
       "name":"Mexico",
-      "author":"Mohit",
+      "author":"Copernicus",
       "url":"https://i.imgur.com/HVxMzu3.jpg",
       "dimensions":"2008x4279",
       "collections":"North America",
@@ -193,7 +193,7 @@
    },
    {
       "name":"Japan",
-      "author":"Mohit",
+      "author":"Copernicus",
       "url":"https://i.imgur.com/th6vjYn.jpg",
       "dimensions":"2255x4800",
       "collections":"Asia",
