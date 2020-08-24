@@ -1,0 +1,34 @@
+[
+   {
+      "name":"USA",
+      "author":"Copernicus",
+      "url":"https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w2400",
+      "dimensions":"2255x4800",
+      "collections":"North America",
+      "copyright":"Map data: Google, Landsat Copernicus, Maxar Technologies"
+   },
+   {
+      "name":"Iceland",
+      "author":"CNES/Airbus",
+      "url":"https://lh3.googleusercontent.com/hB-npdTwpBhX7nENu00EsiRvGL3Dy8tIOGYUZ3QYEtCqjbkGf01aK2bngnwDUYVLpeVx0F4EVt1NA4bL5Q6Xmxb2WnpBxmEIP6D8oCrcfxUp3n4lB4llYAiGzRux_abe-3ozk44bxg=w2400",
+      "dimensions":"2255x4800",
+      "collections":"Europe",
+      "copyright":"Map data: Google, CNES/Airbus"
+   },
+   {
+      "name":"Iceland",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/BGGlexKOCSF-_bXFHdcHtxoqYpttBsPFJiRzHu2bANuWkx-_CfQl5_Dj0XwzYIMvlehwMtQ5_UKLviE55z4mUFPTEv8e_SC3fGaWpaxayFr7RbsnAZv4JXiYaQRz5jrkkNEgdd_Gug=w2400",
+      "dimensions":"2255x4800",
+      "collections":"Europe",
+      "copyright":"Map data: Google, Maxar Technologies"
+   }
+   {
+      "name":"Iceland",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/Ee3HhOEfnI5I_qRdMgByPIMiO6P6z50EQ5ndWtLZnVyNzbWc1bKZKliQGiCVdA24tsgFaXX9bz19CS3QLXeXVKvRTH3OIWj95vKv4zWxK0hj_hoeoIgwYq7FfQ1HdMI3FKP6Av9yHg=w2400",
+      "dimensions":"2255x4800",
+      "collections":"Europe",
+      "copyright":"Map data: Google, Maxar Technologies"
+   }
+]
