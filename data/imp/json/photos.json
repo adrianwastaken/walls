@@ -2,7 +2,7 @@
    {
       "name":"USA",
       "author":"Copernicus",
-      "url":"https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w2400",
+      "url":"https://lh3.googleusercontent.com/nwQpVRB92Ns3z1NHEplRCT-_Dy6EL-IUvXR4Gz_YBIFXLpb2K-Ea78m3evqhhPKzHIsj-QaCuUvqi9KW9pyxXGk7r--Lee94xt8wvDbdxvd_3uSrOxKDgQW3Wo4t1QTgW950vBODkA=w2400",
       "dimensions":"2255x4800",
       "collections":"North America",
       "copyright":"Map data: Google, Landsat Copernicus, Maxar Technologies"
@@ -10,7 +10,7 @@
    {
       "name":"Iceland",
       "author":"CNES/Airbus",
-      "url":"https://lh3.googleusercontent.com/hB-npdTwpBhX7nENu00EsiRvGL3Dy8tIOGYUZ3QYEtCqjbkGf01aK2bngnwDUYVLpeVx0F4EVt1NA4bL5Q6Xmxb2WnpBxmEIP6D8oCrcfxUp3n4lB4llYAiGzRux_abe-3ozk44bxg=w2400",
+      "url":"https://lh3.googleusercontent.com/SeO_NJ1l2XGlDrc2_8ww6Nc71d0xg3yJjwRGwAwgEKb466YomfNp8vv7LU1kyvELXl9_uF-d3Qw0G4F15Dv15-TbsFGuEph7QI87XCLR6LxeWcD-MVSwl5JWkK64DLoio1wwMuZhSQ=w2400",
       "dimensions":"2255x4800",
       "collections":"Europe",
       "copyright":"Map data: Google, CNES/Airbus"
@@ -18,17 +18,185 @@
    {
       "name":"Iceland",
       "author":"Maxar",
-      "url":"https://lh3.googleusercontent.com/BGGlexKOCSF-_bXFHdcHtxoqYpttBsPFJiRzHu2bANuWkx-_CfQl5_Dj0XwzYIMvlehwMtQ5_UKLviE55z4mUFPTEv8e_SC3fGaWpaxayFr7RbsnAZv4JXiYaQRz5jrkkNEgdd_Gug=w2400",
+      "url":"https://i.imgur.com/DW8k5ji.jpg",
       "dimensions":"2255x4800",
       "collections":"Europe",
       "copyright":"Map data: Google, Maxar Technologies"
    },
    {
-      "name":"Iceland",
+      "name":"Namibia",
       "author":"Maxar",
-      "url":"https://lh3.googleusercontent.com/Ee3HhOEfnI5I_qRdMgByPIMiO6P6z50EQ5ndWtLZnVyNzbWc1bKZKliQGiCVdA24tsgFaXX9bz19CS3QLXeXVKvRTH3OIWj95vKv4zWxK0hj_hoeoIgwYq7FfQ1HdMI3FKP6Av9yHg=w2400",
+      "url":"https://i.imgur.com/xYJ1sDs.jpg",
       "dimensions":"2255x4800",
-      "collections":"Europe",
+      "collections":"Africa",
+       "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"China",
+      "author":"Maxar",
+      "url":"https://i.imgur.com/Kbvjtio.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Asia",
+       "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"Mexico",
+      "author":"Maxar",
+      "url":"https://i.imgur.com/23aDxAg.jpg",
+      "dimensions":"2255x4800",
+      "collections":"North America",
       "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"USA",
+      "author":"Google",
+      "url":"https://i.imgur.com/LrofF5q.jpg",
+      "dimensions":"2255x4800",
+      "collections":"North America",
+      "copyright":"Map data: Google"
+   },
+   {
+      "name":"Saudi Arabia",
+      "author":"Maxar",
+      "url":"https://i.imgur.com/YdgNMgI.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"Mozambique",
+      "author":"CNES/Airbus",
+      "url":"https://i.imgur.com/XqidALI.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Africa",
+      "copyright":"Map data: Google, CNES/Airbus, Maxar Technologies"
+   },
+   {
+      "name":"Peru",
+      "author":"Maxar",
+      "url":"https://i.imgur.com/owctCsT.jpg",
+      "dimensions":"2032x4325",
+      "collections":"South America",
+      "copyright":"Map data: Google, Maxar Technologies"
+   },
+    {
+      "name":"Namibia",
+      "author":"Maxar",
+      "url":"https://i.imgur.com/YYZeMlv.jpg",
+      "dimensions":"2091x4457",
+      "collections":"Africa",
+       "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"Algeria",
+      "author":"CNES/Airbus",
+      "url":"https://i.imgur.com/ROgO8UZ.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Africa",
+      "copyright":"Map data: Google, CNES/Airbus, Maxar Technologies"
+   },
+   {
+      "name":"Bahamas",
+      "author":"Maxar",
+      "url":"https://i.imgur.com/DhbYrhZ.jpg",
+      "dimensions":"2255x4800",
+      "collections":"North America",
+      "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"Mozambique",
+      "author":"Copernicus",
+      "url":"https://i.imgur.com/33UBYEK.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Africa",
+      "copyright":"Map data: Google, Landsat Copernicus, Maxar Technologies"
+   },
+   {
+      "name":"Bahamas",
+      "author":"Copernicus",
+      "url":"https://i.imgur.com/xCYgU06.jpg",
+      "dimensions":"2255x4800",
+      "collections":"North America",
+      "copyright":"Map data: Google, Landsat Copernicus, Maxar Technologies"
+   },
+   {
+      "name":"USA",
+      "author":"Copernicus",
+      "url":"https://i.imgur.com/Ii0mpoX.jpg",
+      "dimensions":"2255x4800",
+      "collections":"North America",
+      "copyright":"Map data: Google, Landsat Copernicus"
+   },
+   {
+      "name":"USA",
+      "author":"Copernicus",
+      "url":"https://i.imgur.com/WOjtI1D.jpg",
+      "dimensions":"2255x4800",
+      "collections":"North America",
+      "copyright":"Map data: Google, Landsat Copernicus, USDA Farm Service Agency"
+   },
+   {
+      "name":"Namibia",
+      "author":"CNES/Airbus",
+      "url":"https://i.imgur.com/wYJkBi4.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Africa",
+      "copyright":"Map data: Google, CNES/Airbus"
+   },
+   {
+      "name":"Brazil",
+      "author":"Copernicus",
+      "url":"https://i.imgur.com/A5B3Rt8.jpg",
+      "dimensions":"2255x4800",
+      "collections":"South America",
+      "copyright":"Map data: Google, Landsat Copernicus"
+   },
+   {
+      "name":"Australia",
+      "author":"Maxar",
+      "url":"https://i.imgur.com/fDjCkCz.jpg",
+      "dimensions":"2085x4439",
+      "collections":"Australia",
+      "copyright":"Map data: Google, CNES/Airbus, Maxar Technologies"
+   },
+   {
+      "name":"Cooler Algeria",
+      "author":"Maxar",
+      "url":"https://i.imgur.com/4jqcTyB.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Africa",
+      "copyright":"Map data: Google, CNES/Airbus, Maxar Technologies"
+   },
+   {
+      "name":"Sudan",
+      "author":"DigitalGlobe",
+      "url":"https://i.imgur.com/qYOq2t7.jpg",
+      "dimensions":"1113x2352",
+      "collections":"Africa",
+      "copyright":"Map data: Google, DigitalGlobe"
+   },
+   {
+      "name":"Iran",
+      "author":"CNES/Airbus",
+      "url":"https://i.imgur.com/qfsqVWi.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, CNES/Airbus, Maxar Technologies"
+   },
+   {
+      "name":"Mexico",
+      "author":"Copernicus",
+      "url":"https://i.imgur.com/HVxMzu3.jpg",
+      "dimensions":"2008x4279",
+      "collections":"North America",
+      "copyright":"Map data: Google, Landsat Copernicus, Maxar Technologies"
+   },
+   {
+      "name":"Japan",
+      "author":"Copernicus",
+      "url":"https://i.imgur.com/nNVh3Ef.jpg",
+      "dimensions":"2255x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Landsat Copernicus"
    }
-]
+ ]
