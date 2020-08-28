@@ -1,6 +1,46 @@
 [
    {
       "name":"USA",
+      "author":"Google",
+      "url":"https://lh3.googleusercontent.com/RhF--B4pMZC2duq7rpozFbGoBAdLsIEhmZk-3Wgy6W2lEN6kciLyhbmecSv0AtIcMAxBublqvCT7pZV08NXtPkLLj6jpVrD3r9r6CHVARjSl9l5uO885fY9huzGhQCi124dUA8VTDw=w2400",
+      "dimensions":"1877x4000",
+      "collections":"North America",
+      "copyright":"Map data: Google"
+   },
+   {
+      "name":"Iceland",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/F-W_4GjlP9Z3I852EuFoCfAT6wWA_HiRvMI9d-sh4lZUxUmBcTEtnn03VfTc3It5dsp0VVbh4FsjDxJpDKsqRfbov9j3LQhVaJPbE_HKy_woHmVGL-3tTHS1kZPwmhPdG3XleH2Fqw=w2400",
+      "dimensions":"2202x4591",
+      "collections":"Europe",
+      "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"Iran",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/q82ddpDfa5ZrDOPC4LkpNOOqe9Q5RQZfKLlfbMfMTchep-eOAFPQGu4BVkOEDbAXfGXK1M04PbuDTCOF29PTayC1len4KpvOe1Mx6vyN45I5Y9ifP7KLPlcWHZHwT7zAWCmBl5-w9w=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"Iran",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/WeI7NrJ3r45W-bdCtc_VoVYvgWp61hbJnTbaizdmJMA24fm4H16Lu8BHpEoks0821FYXyw6KsDB4LHcDPcZDw0JP7qtXod0e27ou_5A__m8hB2Odv5x4ldoY3HyDtQ4AN94zJw26Rw=w2400",
+      "dimensions":"2255x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar Technologies"
+   },
+   {
+      "name":"Netherlands",
+      "author":"Copernicus",
+      "url":"https://lh3.googleusercontent.com/cuszEUdFMqVrNCWdR5GacEMqOwTxnxLIsrLfOIgF905GDplb9UZvzbTCnMSCvmtX8wae7DsTEH6IGzNuv2wbsCPJ-PhBRzYX8l2lzMMQwoFH1CZB1BemVmqswRy93NoQV-lBImeMtA=w2400",
+      "dimensions":"2255x4800",
+      "collections":"Europe",
+      "copyright":"Map data: Google, Landsat Copernicus"
+   },
+   {
+      "name":"USA",
       "author":"Copernicus",
       "url":"https://lh3.googleusercontent.com/nwQpVRB92Ns3z1NHEplRCT-_Dy6EL-IUvXR4Gz_YBIFXLpb2K-Ea78m3evqhhPKzHIsj-QaCuUvqi9KW9pyxXGk7r--Lee94xt8wvDbdxvd_3uSrOxKDgQW3Wo4t1QTgW950vBODkA=w2400",
       "dimensions":"2255x4800",
