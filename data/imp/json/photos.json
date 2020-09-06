@@ -1,4 +1,77 @@
 [
+  {
+      "name":"Iran",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/JnzMGArvhj_oQxE_p4OOsZYjSQ3RRd0QWM3LcW72bLkLWG_-DGI2E2ejivWgEL_aDxhRmuWYuruFU7eXwRBerTqwW7xjrOiDJCkpd_GldQ9JgntKVX_xgzwiqnrCV6Hnb5oYHgGWZw=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar"
+   }, 
+   {
+      "name":"Iran",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/2QiAvt5VXBrFMCBxFHVSAQTeEbwrEjmrnAnTs9VDgQHuM_a5ipV187aKiAIPSsjp3gAXRybpJF2a7KEIGj-WpHXrDKUrg_tjdlRAVVd5TljNxTdGu3uM1mDAFCkGBQ270tLbqNs24w=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar"
+   },
+   {
+      "name":"Mauritania",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/NPYHZ4nsxdXjSy651ZVFh4xHB3gznEOBkY3Ai5lnX4JQKOWX4eh23o6LXXIZRcA_EFdUi-gvyzuQZ_67kaJkoT1Rjwi2GI07HzdL9uFd9cPz-s0tbbZTAgvoqTa0YNeln1Io9q6zsA=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Africa",
+      "copyright":"Map data: Google, Maxar"
+   },
+   {
+      "name":"Iran",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/PnjobfvuK45bruws3J0o8mihPhO46_XpcXJvVCvy78oaZ6F91XiobXwWl-HYN57EmR3u6u8v25ahrYRvSEXv3seb_omRc55-v9gnsg7uEmamnBlpwMtqKNgUNjtjKCIKXNZi-WW6zw=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar"
+   },
+   {
+      "name":"Iran",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/IOocf7ZntMzaFpDK4Fndf_OnQIsFloMBXYZV3fRG0TzfmtQWSHCCPNdtmbMNOdSznqhWVONToJX6g73pApHHIUiquoZ8casu9LyDw_FNl_uIcGv6OL0Ii4YTZSISmGRXnCO1heixXA=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar"
+   },
+   {
+      "name":"Namibia",
+      "author":"Copernicus",
+      "url":"https://lh3.googleusercontent.com/7P2nNkonxc8FNScolDFe7609Trj6jDfkoD9qckKc-KPFV1MtVBl3zP0FBxUkWnhnHxkvKGHipVx3VOWLXqszuvwrBq0QWk2ZPBgnsz6mpm3lsHgtnPXL-xrYLb18tbFHfM0HoXDvvg=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Africa",
+      "copyright":"Map data: Google, Maxar, Landsat Copernicus"
+   },
+   {
+      "name":"Iran",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/5v9EIeZ3PXsOo7YET3qJ0vcqSe5ZdbXOdfzcyNx0XUOa28Y8N_q0ap96tMgmeuU2m2PgbJ1T6H7eYuz4w4DPSYPbop3_Jq3StH_s32sDa-TiN3pZw6wIUgKAk2NYoj1wX-ajZPznKg=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar"
+   },
+   {
+      "name":"Green
+      ",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/lLrP2FQo_TE4r-DvwDae9wJ1izMAbJOmSpXKzY946G_27YrKKp_X609Ik3pqbOWCsGI_cTzf3Pn7i9En2cVLttbVJRpNbL9wMITmfdsd1b51mk6k0NH_VBZBJRdGY91UEzCtqugzvw=w2400",
+      "dimensions":"2202x4800",
+      "collections":"North America",
+      "copyright":"Map data: Google, Maxar"
+   },
+   {
+      "name":"Russia",
+      "author":"Maxar",
+      "url":"https://lh3.googleusercontent.com/tfqyg_adHvLfye9OWcz75RXobeMOJnSJ1GapSXReLPPVawQUGsfMYYnmDvLuzIaoskKUiR3zXfbl12LLn1LL0KI5zVOTORMPzKzpDiqhVa6S93QqyN_GsCMnVQ_UZRlAdjbt8GfKWg=w2400",
+      "dimensions":"2202x4800",
+      "collections":"Asia",
+      "copyright":"Map data: Google, Maxar"
+   },
    {
       "name":"USA",
       "author":"Google",
